@@ -6,3 +6,5 @@ If you want to see the video, don't hesitate to visit my youtube, you are more t
 [ASCII-ART:https://youtu.be/IxP5-jsdCeY](https://youtu.be/IxP5-jsdCeY)    
 ***ASCII Art  ***    
 ![The Image of ASCII Art ](https://github.com/kyle662606957/ASCII-ART/blob/master/For%20Tamako.PNG)
+
+[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
