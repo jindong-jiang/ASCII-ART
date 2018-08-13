@@ -6,3 +6,5 @@ If you want to see the video, don't hesitate to visit my youtube, you are more t
 ***ASCII Art***      
 
 [![The Image of ASCII Art](https://github.com/kyle662606957/ASCII-ART/blob/master/HappyBirthday.PNG)](https://youtu.be/MyooD22ynJY)
+(If it is not working, you can also watch the video here with the password 0033: 
+https://v.youku.com/v_show/id_XMzc3OTE3OTE0NA==.html?spm=a2h3j.8428770.3416059.1)
